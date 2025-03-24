@@ -57,7 +57,7 @@ After displaying the recommendations, the system also evaluates its accuracy usi
 
 ![Image](https://github.com/user-attachments/assets/a06e2316-f74d-469b-89fa-67646bbde226)
 
-*RECOMMENDATION MOBILE FOR USER ID 2 :*
+*RECOMMENDATION MOBILE FOR USER ID 3 :*
 
 ![Image](https://github.com/user-attachments/assets/65c56b93-ff75-4579-9765-ddea31cd168d)
 
