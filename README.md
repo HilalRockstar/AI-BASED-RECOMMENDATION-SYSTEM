@@ -53,14 +53,14 @@ After displaying the recommendations, the system also evaluates its accuracy usi
 
 # OUTPUT
 
-*RECOMMENDATION MOBILE FOR USER 1 :*
+*RECOMMENDATION MOBILE FOR USER ID 1 :*
 
 ![Image](https://github.com/user-attachments/assets/a06e2316-f74d-469b-89fa-67646bbde226)
 
-*RECOMMENDATION MOBILE FOR USER 2 :*
+*RECOMMENDATION MOBILE FOR USER ID 2 :*
 
 ![Image](https://github.com/user-attachments/assets/65c56b93-ff75-4579-9765-ddea31cd168d)
 
-*RECOMMENDATION MOBILE FOR USER 10 (USER NOT IN CSV DATA) :*
+*RECOMMENDATION MOBILE FOR USER ID 10 (USER NOT IN CSV DATA) :*
 
 ![Image](https://github.com/user-attachments/assets/ab89f304-7dbd-475b-b5da-18eced99dabb)
