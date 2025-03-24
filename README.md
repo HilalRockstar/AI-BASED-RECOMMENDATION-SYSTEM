@@ -41,12 +41,12 @@ The system follows a step-by-step process to generate recommendations. First, it
 After displaying the recommendations, the system also evaluates its accuracy using Apache Mahout’s Average Absolute Difference Evaluator. This ensures that the recommendations are reliable and meaningful rather than being randomly generated.
 
 # Future Enhancements
-The project has significant potential for future enhancements. Some possible improvements include:
+1.The project has significant potential for future enhancements. Some possible improvements include:
 
-Larger Dataset: Expanding the dataset with real-world user ratings for a diverse range of mobile phones.
+2.Larger Dataset: Expanding the dataset with real-world user ratings for a diverse range of mobile phones.
 
-Database Integration: Replacing CSV file storage with MySQL or MongoDB for better scalability.
+3.Database Integration: Replacing CSV file storage with MySQL or MongoDB for better scalability.
 
-Hybrid Recommendation Model: Combining User-Based and Item-Based Filtering for more accurate suggestions.
+4.Hybrid Recommendation Model: Combining User-Based and Item-Based Filtering for more accurate suggestions.
 
-Web-Based Interface: Developing a web application where users can input ratings and get real-time recommendations.
+5.Web-Based Interface: Developing a web application where users can input ratings and get real-time recommendations.
