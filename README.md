@@ -50,3 +50,6 @@ After displaying the recommendations, the system also evaluates its accuracy usi
 4.Hybrid Recommendation Model: Combining User-Based and Item-Based Filtering for more accurate suggestions.
 
 5.Web-Based Interface: Developing a web application where users can input ratings and get real-time recommendations.
+
+# OUTPUT
+
