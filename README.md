@@ -53,3 +53,9 @@ After displaying the recommendations, the system also evaluates its accuracy usi
 
 # OUTPUT
 
+*RECOMMENDATION MOBILE FOR USER 1:*
+
+*RECOMMENDATION MOBILE FOR USER 2:*
+
+*RECOMMENDATION MOBILE FOR USER 10(USER NOT IN CSV DATA):*
+
